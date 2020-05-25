@@ -7,6 +7,8 @@ Guarda información en el estado de la aplicación.
 
 ### `Framework y adicionales`
  Material UI <br>
+ Formik <br>
+ Yup <br>
 
 ### `Screenshots`
 
